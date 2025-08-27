@@ -1,1 +1,2 @@
-its a cool thing like ai chatter
+# Kupid App
+Test repo setup
